@@ -1,11 +1,11 @@
 {
-    "id": ?,
+    "id": 1,
     "name": "Nerbath",
     "author": "LevelUploader",
     "creators": ["GafoliGD"],
     "verifier": "GafoliGD",
     "verification": "?",
-    "percentToQualify": ?,
+    "percentToQualify": 1,
     "password": "?",
     "records": [
     ]
